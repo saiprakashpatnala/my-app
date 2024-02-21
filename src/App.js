@@ -1,8 +1,9 @@
-import Tabs from "./componnets/Tabs";
+import Autocomplete from "./componnets/AutoComplte";
+
 function App() {
   return (
     <div className="App">
-    <Tabs/>
+  <Autocomplete/>
     </div>
   );
 }
